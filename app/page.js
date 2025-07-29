@@ -78,7 +78,7 @@ export default function Home() {
           <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=5004&pause=1000&color=2FF72D&random=false&width=435&lines=RECOGNITION" alt="Typing SVG" />
         </a>
         <p>Best Oral Presenter – National Graduate Conference (AIOU)</p>
-        <p>Multiple Certificates of Appreciation – Sitara School</p>
+        <p>Multiple Certificates of Appreciation – Sitara School and Teachers Institute</p>
 
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=5004&pause=1000&color=2FF72D&random=false&width=435&lines=INTERESTS" alt="Typing SVG" />
