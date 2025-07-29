@@ -30,34 +30,34 @@ export default function Home() {
         </a>
         <p>Languages: Python, TypeScript, JavaScript, HTML, CSS, SQL, Java</p>
         <p>Frontend: React, React Native, Next.js, Tailwind CSS</p>
-        <p>Backend: FastAPI, Docker, Kafka, Kong, Azure, GitHub Actions</p>
-        <p>Databases: PostgreSQL, SQLite</p>
+        <p>Backend: FastAPI, Docker, Kafka </p>
+        <p>Databases: PostgreSQL </p>
         <p>Tools: Git, Postman, PgAdmin, Jupyter Notebook, Dev Containers</p>
 
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=5004&pause=1000&color=2FF72D&random=false&width=435&lines=FEATURED GITHUB PROJECTS" alt="Typing SVG" />
         </a>
-        <p><strong>Institute_Portfolio</strong> – HTML website showcasing school branding and layout.</p>
-        <p><strong>ProBook_Website</strong> – Book listing site using HTML/CSS for educational content.</p>
-        <p><strong>Paintex_Ecomerce_Store</strong> – Simulated UI for a paint shop.</p>
-        <p><strong>Asma_Sayyam_CV</strong> – Interactive web-based resume using JS.</p>
-        <p><strong>Asma_Portfolio1 / Asma_Portfolio2</strong> – Developer portfolio websites.</p>
-        <p><strong>My_Portfolio / portfolio_1</strong> – Additional portfolio versions built with React.</p>
-        <p><strong>ASayyam</strong> – GitHub config files using Jupyter and markdown.</p>
-        <p><strong>AI_Teaching_Agent_With_UI</strong> – AI agent with front-end UI using Python.</p>
-        <p><strong>AI_Tutor_Agent_Online_Learning</strong> – OpenAI-based student tutoring agent.</p>
-        <p><strong>Crewai_Poemflow_Agent</strong> – Creative writing agent using CrewAI SDK.</p>
-        <p><strong>Agents_Using_Crewai</strong> – Multi-agent experiments with CrewAI.</p>
-        <p><strong>Student_Selfstudy_Agent series</strong> – Study agents with memory and interrupt logic.</p>
-        <p><strong>Teachers-Chatbot</strong> – JS chatbot for teacher-student FAQs.</p>
-        <p><strong>Mart_Three_Services</strong> – Kafka and Docker based microservice app.</p>
-        <p><strong>Online_Imtiaz_Mart</strong> – Store backend simulation in Python.</p>
-        <p><strong>Full_stack_todo_app</strong> – CRUD-based to-do app with full-stack logic.</p>
+        <p><strong>Institute_Portfolio</strong> –------------ HTML website showcasing school branding and layout.</p>
+        <p><strong>ProBook_Website</strong> –------------ Book listing site using HTML/CSS for educational content.</p>
+        <p><strong>Paintex_Ecomerce_Store</strong> –------------- Simulated UI for a paint shop.</p>
+        <p><strong>Asma_Sayyam_CV</strong> –----------- Interactive web-based resume using JS.</p>
+        <p><strong>Asma_Portfolio1 / Asma_Portfolio2</strong> –---------- Developer portfolio websites.</p>
+        <p><strong>My_Portfolio / portfolio_1</strong> –---------- Additional portfolio versions built with React.</p>
+        <p><strong>ASayyam</strong> –--------- GitHub config files using Jupyter and markdown.</p>
+        <p><strong>AI_Teaching_Agent_With_UI</strong> –--------- AI agent with front-end UI using Python.</p>
+        <p><strong>AI_Tutor_Agent_Online_Learning</strong> –--------- OpenAI-based student tutoring agent.</p>
+        <p><strong>Crewai_Poemflow_Agent</strong> –--------- Creative writing agent using CrewAI SDK.</p>
+        <p><strong>Agents_Using_Crewai</strong> –---------- Multi-agent experiments with CrewAI.</p>
+        <p><strong>Student_Selfstudy_Agent series</strong> –---------- Study agents with memory and interrupt logic.</p>
+        <p><strong>Teachers-Chatbot</strong> –---------- JS chatbot for teacher-student FAQs.</p>
+        <p><strong>Mart_Three_Services</strong> –-----------Kafka and Docker based microservice app.</p>
+        <p><strong>Online_Imtiaz_Mart</strong> –---------- Store backend simulation in Python.</p>
+        <p><strong>Full_stack_todo_app</strong> –-------------- CRUD-based to-do app with full-stack logic.</p>
 
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=5004&pause=1000&color=2FF72D&random=false&width=435&lines=EDUCATION" alt="Typing SVG" />
         </a>
-        <p>M.Phil (Science Education) – AIOU, 2024</p>
+        <p>M.Phil (Science Education) –  2024</p>
         <p>M.Ed / M.A English – 2019 / 2016</p>
         <p>B.Ed / B.Sc – 2015 / 2008</p>
 
